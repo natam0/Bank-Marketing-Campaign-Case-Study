@@ -1,2 +1,3 @@
-# bank-marketing-campaign-case-study
-Created a model to predict whether a client will subscribe to a term deposit during a new phone call-based marketing campaign based on the client’s information.
+# Bank Marketing Campaign Case Study
+
+Developing a predictive model to prioritize phone calls for a term deposit campaign, reducing outbound calls while targeting high-probability clients.
